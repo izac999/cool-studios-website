@@ -270,8 +270,34 @@ main .sobre-nosotros{
     color: #fff;
 }
 
+.twitterfollow{
+    margin-bottom: 5px;
+}
+
+.yt-button{
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    width: 25px;
+    height: 30px;
+    padding: 2px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
 .discord{
     width: 100%;
+}
+
+.discordServer{
+    margin-right: 30px;
+    margin-left: 10px;
+    margin-bottom: 25px;
+    margin-top: 30px;
+    width: 70%;
 }
 
 /* footer */
@@ -390,6 +416,10 @@ footer{
 
     .cards .card:first-child{
         margin-bottom: 30px;
+    }
+    
+    .discordServer{
+        width: 45%;
     }
 
     /* servicios */
