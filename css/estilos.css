@@ -270,22 +270,17 @@ main .sobre-nosotros{
     color: #fff;
 }
 
+.desc{
+    color: #fff;
+    margin-bottom: 25px;
+}
+
 .twitterfollow{
     margin-bottom: 5px;
 }
 
 .yt-button{
-    border-radius: 50%;
-    display: inline-block;
-    text-align: center;
-    width: 25px;
-    height: 30px;
-    padding: 2px;
-    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
-    margin-right: 10px;
-    margin-left: 10px;
-    margin-bottom: 30px;
-    margin-top: 20px;
+    width: 450%;
 }
 
 .discord{
@@ -293,11 +288,8 @@ main .sobre-nosotros{
 }
 
 .discordServer{
-    margin-right: 30px;
-    margin-left: 10px;
-    margin-bottom: 25px;
-    margin-top: 30px;
     width: 70%;
+    margin-top: 25px;
 }
 
 /* footer */
@@ -418,8 +410,12 @@ footer{
         margin-bottom: 30px;
     }
     
+    .discord{
+        width: 100%;
+    }
+    
     .discordServer{
-        width: 45%;
+        width: 65%;
     }
 
     /* servicios */
@@ -490,6 +486,14 @@ footer{
     .cards .card img{
         width: 90px;
         height: 90px;
+    }
+    
+    .discord{
+        width: 100%;
+    }
+    
+    .discordServer{
+        width: 70%;
     }
 
     /* Footer */
