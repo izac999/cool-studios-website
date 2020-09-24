@@ -288,8 +288,8 @@ main .sobre-nosotros{
 }
 
 .discordServer{
-    width: 70%;
     margin-top: 25px;
+    width: 70%;
 }
 
 /* footer */
@@ -417,6 +417,7 @@ footer{
     .discordServer{
         width: 65%;
     }
+    
 
     /* servicios */
 
@@ -435,7 +436,7 @@ footer{
     }
 
     .servicio-ind img{
-        width: 90%;
+        width: 100%;
     }
 }
 
@@ -488,7 +489,8 @@ footer{
         height: 90px;
     }
     
-    .discord{
+    
+        .discord{
         width: 100%;
     }
     
