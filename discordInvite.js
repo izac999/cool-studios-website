@@ -1,4 +1,5 @@
 var discordInvite = discordInvite || function() {
+    
     var i = {},
         e = "1.0";
     return {
