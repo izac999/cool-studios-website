@@ -6,10 +6,11 @@
 
 body {
     font-family: 'arial black';
-    background:url("https://media.discordapp.net/attachments/610913395969097729/783761872138010644/SRB2_-_2020-12-02T122941.216.png?width=700&height=467");
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background: url("https://media.discordapp.net/attachments/610913395969097729/783761872138010644/SRB2_-_2020-12-02T122941.216.png?width=700&height=467") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .contenedor {
@@ -21,14 +22,14 @@ body {
 }
 
 .titulo {
-    color: #3b83bd;
+    color: #67bbff;
     font-size: 30px;
     text-align: center;
     margin-bottom: 60px;
 }
 
 .titulo2{
-    color:  #3b83bd;
+    color:  #67bbff;
     font-size: 30px;
     text-align: center;
     margin-bottom: 60px;
