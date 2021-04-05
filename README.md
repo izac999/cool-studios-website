@@ -1,6 +1,6 @@
-# divide-studios-website
-The oficial website source code of Divide Studios.
+# divide-studios
+This repo is the complete source code of the official website of Divide Studios.
 
-# Original website: https://cool-studios.ml/
+# Site: https://cool-studios.ml/
 
 # Official Discord Server: https://discord.com/invite/UDM2khB
